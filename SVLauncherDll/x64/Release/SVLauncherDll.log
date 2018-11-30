@@ -1,0 +1,9 @@
+﻿  SVLauncherDll.cpp
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.h(34): warning C4091: “typedef __declspec(dllexport)”: 没有声明变量时忽略“SVLauncherDll::svarg”的左侧
+    正在创建库 E:\Visual Studio项目\SVLauncherDll\x64\Release\SVLauncherDll.lib 和对象 E:\Visual Studio项目\SVLauncherDll\x64\Release\SVLauncherDll.exp
+  正在生成代码
+  12 of 82 functions (14.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SVLauncherDll.vcxproj -> E:\Visual Studio项目\SVLauncherDll\x64\Release\SVLauncherDll.dll

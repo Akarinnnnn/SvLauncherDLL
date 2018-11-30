@@ -1,0 +1,19 @@
+﻿  stdafx.cpp
+  SVLauncherDll.cpp
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(12): error C2440: “初始化”: 无法从“const wchar_t [45]”转换为“LPWSTR”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(12): error C2439: “svarg::execfile”: 未能初始化成员
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(13): error C2440: “初始化”: 无法从“const wchar_t [10]”转换为“LPWSTR”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(13): error C2439: “svarg::cluster”: 未能初始化成员
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(14): error C2440: “初始化”: 无法从“const wchar_t [7]”转换为“LPWSTR”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(14): error C2439: “svarg::shard”: 未能初始化成员
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(19): error C2440: “初始化”: 无法从“const wchar_t [1]”转换为“LPWSTR”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(19): error C2439: “svarg::CurDir”: 未能初始化成员
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(23): error C2440: “初始化”: 无法从“const wchar_t [1]”转换为“wchar_t *”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(23): error C2439: “svarg::Con_Title”: 未能初始化成员
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(52): error C2440: “初始化”: 无法从“const wchar_t [10]”转换为“LPWSTR”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(52): error C2440: “初始化”: 无法从“const wchar_t [8]”转换为“LPWSTR”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(52): error C2440: “初始化”: 无法从“const wchar_t [26]”转换为“LPWSTR”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(52): error C2440: “初始化”: 无法从“const wchar_t [11]”转换为“LPWSTR”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(52): error C2440: “初始化”: 无法从“const wchar_t [14]”转换为“LPWSTR”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(52): error C2440: “初始化”: 无法从“const wchar_t [13]”转换为“LPWSTR”
+e:\visual studio项目\svlauncherdll\svlauncherdll\svlauncherdll.cpp(77): error C2440: “=”: 无法从“const wchar_t [1]”转换为“wchar_t *”
